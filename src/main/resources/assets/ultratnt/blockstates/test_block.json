@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "ultratnt:block/test_block" }
+  }
+}
